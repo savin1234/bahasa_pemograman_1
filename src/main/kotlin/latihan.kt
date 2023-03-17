@@ -1,12 +1,26 @@
 fun main (){
-      println ("WKWKWKWKWKWKWKWKWWKKW")
-      println ("AVIN")
+      // Pertemuan 1
+//      println ("WKWKWKWKWKWKWKWKWWKKW")
+//      println ("AVIN")
+//
+//      print("Pekerjaan : ")
+//      val pekerjaan = readLine()
+//
+//      print("Alamat : ")
+//      val alamat = readLine()
+//
+//      println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
+}
+// Pertemuan 2
 
-      print("Pekerjaan : ")
-      val pekerjaan = readLine()
+fun main (args: Array<String>){
+      var namaLengkap: String = "Savindra"
+      var alamat: String
+      alamat = "Yogyakarta"
 
-      print("Alamat : ")
-      val alamat = readLine()
+      var umur = 20
 
-      println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
+      println(namaLengkap)
+      println(alamat)
+      println(umur)
 }
