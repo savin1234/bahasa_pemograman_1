@@ -10,10 +10,10 @@ fun main (){
 //      val alamat = readLine()
 //
 //      println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
-}
-// Pertemuan 2
 
-//fun main (args: Array<String>){
+// Pertemuan 2 1a
+
+
 //      var namaLengkap: String = "Savindra"
 //      var alamat: String
 //      alamat = "Yogyakarta"
@@ -25,7 +25,7 @@ fun main (){
 //      println(umur)
 //}
 
-fun main (args: Array<String>){
+
       var namaLengkap ="Savindra"
       namaLengkap = "Savindra Sulistyo"
       println(namaLengkap)
