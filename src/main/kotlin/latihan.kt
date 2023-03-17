@@ -13,14 +13,20 @@ fun main (){
 }
 // Pertemuan 2
 
+//fun main (args: Array<String>){
+//      var namaLengkap: String = "Savindra"
+//      var alamat: String
+//      alamat = "Yogyakarta"
+//
+//      var umur = 20
+//
+//      println(namaLengkap)
+//      println(alamat)
+//      println(umur)
+//}
+
 fun main (args: Array<String>){
-      var namaLengkap: String = "Savindra"
-      var alamat: String
-      alamat = "Yogyakarta"
-
-      var umur = 20
-
+      var namaLengkap ="Savindra"
+      namaLengkap = "Savindra Sulistyo"
       println(namaLengkap)
-      println(alamat)
-      println(umur)
 }
